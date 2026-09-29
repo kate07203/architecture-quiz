@@ -2,9 +2,7 @@
 
 ## Original idea
 
-Create a simple, one-question browser quiz for architecture students learning to recognize famous architects and elements of their signature design styles. Students identify the architect of Fallingwater from a multiple-choice list and receive immediate feedback explaining the architectural clues behind the correct answer.
-
-The finished quiz includes a real photograph of Fallingwater, visual comparisons for incorrect choices, explicit Correct/Incorrect labels, and a minimalist architecture-portfolio design.
+I want to create a one question quiz for architecture students that are trying to learn famous architects and their signature design styles using HTML, CSS, and JavaScript. The user should identify the architect of a famous building from a multiple choice list and receive feedback if right or wrong -- explaining the architectural clues behind the right answer. When someone selects an answer, the experience should immediately tell them whether they are correct and explain why. Please help me create this as a small browser-based version. Keep the code beginner-friendly and help me understand the happenings in the code.
 
 ## Opening and running the project
 
