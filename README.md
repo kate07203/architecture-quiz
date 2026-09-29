@@ -37,11 +37,11 @@ The following excerpts are from my prompts to Codex, in the order of the main re
 
 ### 4. Refine the visual design
 
-> Make sure there is a lot of white space, make the typography, be very simple, keep the colors to be black/white/gray, and have a clear hierarchy. Do not change anything else of the interaction/keep the interaction the main focus. Show me what changes in the code and explain why.
+> I want to change the design of the site a bit to feel more "aesthetic and architectural," so can you please make the site feel like a minimalist architecture portfolio rather than this generic online Codex quiz. Make sure there is a lot of white space, make the typography, be very simple, keep the colors to be black/white/gray, and have a clear hierarchy. Do not change anything else of the interaction/keep the interaction the main focus. Show me what changes in the code and explain why.
 
 ### 5. Clarify the instructions
 
-> So, please change "Choose an architect to reveal the story" to "Chose the correct architect that designed this building."
+> Please change "Choose an architect to reveal the story" to "Chose the correct architect that designed this building."
 
 ### 6. Label the answers explicitly
 
@@ -53,11 +53,6 @@ My original intention was to create a simple one-question quiz to help architect
 
 In this assignment AI helped me translate my ideas into HTML, CSS, and JavaScript and helped explain how changes to the code affected the interaction. I still had to decide what the experience should teach and evaluate whether the AI-generated result actually accomplished that goal. For example, AI initially created generic incorrect-answer feedback, but I decided that comparing the selected architect's work visually with Fallingwater would make the mistake itself part of the learning experience. I also noticed through testing that the phrase "Choose an architect to reveal the story" did not accurately communicate the purpose of the quiz, so I changed it to give the user clearer instructions. One thing I learned through this process is that AI is magical!!! and can create and revise the code quickly, but it ultimately cannot decide for me whether the experience was effective for my intended user. I had to continue testing the quiz from the perspective of an architecture student and direct the AI toward changes that better matched my original intention.
 
-### Space for additional reflection
-
-_Add future observations, student feedback, or changes you would make next here._
-
----
 
 ## How the files work together
 
